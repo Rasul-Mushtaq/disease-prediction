@@ -33,5 +33,4 @@ To run this project, ensure you have the necessary Python libraries installed. T
 
 ## Dataset
 
-For this project, I used this public dataset shared on Kaggle:
-https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
+For this project, I used this public dataset shared on Kaggle: [Kaggle Dataset](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset)
